@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ```
 ### 4.Skonfiguruj klucz API OpenAI:
 
-- Stwórz plik .env w głównym katalogu projektu.
+- Stwórz plik .env w głównym katalogu projektu - Oxido.
 - W pliku .env umieść klucz API w formacie:
 ```bash
 OPENAI_API_KEY=your_openai_api_key
