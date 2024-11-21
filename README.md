@@ -35,8 +35,8 @@ venv\Scripts\activate       # Windows
 pip install -r requirements.txt
 ```
 ### 4.Skonfiguruj klucz API OpenAI:
-
-- W pliku .env umieść Twój klucz API
+- Przejdź do pliku .env i otwórz go - znajduje się on w katalogu Oxido
+- W pliku .env umieść Twój klucz API - pamiętaj, aby nie udostępniać go nikomu! Klucz API powinien pozostać prywatny.
   
 ### 5. Uruchom program w terminalu
 
