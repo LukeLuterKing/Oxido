@@ -13,6 +13,7 @@ Aplikacja służy do generowania kodu HTML na podstawie treści artykułu zapisa
 ## Wymagania
 
 - Python 3.13+
+- Git
 - Konto OpenAI i dostęp do klucza API
 - Zainstalowane biblioteki z pliku `requirements.txt`
 
