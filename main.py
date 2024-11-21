@@ -39,7 +39,7 @@ def generate_html(api_key, article_content):
         "Proszę wygenerować kod HTML dla artykułu, który spełnia poniższe wymagania:"
         "1. Struktura dokumentu:"
         "   - Tytuł artykułu powinien być otoczony tagiem <h1>."
-        "   - Każda sekcja (tag <section>) artykułu powinna zawierać nagłówki <h2>, a podsekcje <h3>, zorganizowane w logiczny sposób."
+        "   - Podziel artykuł na sekcje i dodaj nagłówki tam gdzie tego wymaga tekst artykułu."
         "   - Akapity treści otocz <p>."
         "2. Grafiki:"
         "   - W miejscach, gdzie artykuł wymaga uzupełnienia wizualnego, dodaj tag <img> z atrybutem src='image_placeholder.jpg'."
