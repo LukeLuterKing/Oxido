@@ -41,6 +41,7 @@ def generate_html(api_key, article_content):
         "   - Tytuł artykułu powinien być otoczony tagiem <h1>."
         "   - Każda sekcja (tag <section>) artykułu powinna zawierać nagłówki <h2>, a podsekcje <h3>, zorganizowane w logiczny sposób."
         "   - Akapity treści otocz <p>."
+        "   - Listy punktowane używaj z tagiem <ul>, a numerowane z <ol>."
         "2. Grafiki:"
         "   - W miejscach, gdzie artykuł wymaga uzupełnienia wizualnego, dodaj tag <img> z atrybutem src='image_placeholder.jpg'."
         "   - Każdy tag <img> powinien zawierać atrybut alt z pełnym opisem obrazu w języku polskim, zgodnym z treścią artykułu."
