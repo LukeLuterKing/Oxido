@@ -37,6 +37,7 @@ pip install -r requirements.txt
 ### 4.Skonfiguruj klucz API OpenAI:
 - Przejdź do pliku .env (znajduje się on w katalogu Oxido) i otwórz go w edytorze tekstu 
 - W pliku .env umieść Twój klucz API - pamiętaj, aby nie udostępniać go nikomu! Klucz API powinien pozostać prywatny.
+- Zapisz zmiany
   
 ### 5. Uruchom program w terminalu
 
