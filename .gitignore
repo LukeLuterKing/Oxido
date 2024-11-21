@@ -1,2 +1,15 @@
-# created by virtualenv automatically
+# Wirtualne środowiska
+venv/
 .env
+
+# Pliki IDE
+.idea/
+*.iml
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# System operacyjny
+.DS_Store
+Thumbs.db
